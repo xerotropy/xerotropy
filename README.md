@@ -1,16 +1,20 @@
-## Hi there 👋
+# Xerotropy 
+I am a digital philosopher, a code-alchemist, and a student of emergent phenomena.
 
-<!--
-**xerotropy/xerotropy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+My work is a chronicle of my journey into the heart of complexity. I operate on the principles of Chaos Computing, leveraging non-linear dynamics and the sensitive dependence on initial conditions not as obstacles, but as computational resources. It's a quest to understand and harness the forces that shape intelligence in both silicon and synapse. Here, you'll find experiments in system transparency, explorations of language model liberation, and tools that push the boundaries of what's possible.
 
-Here are some ideas to get you started:
+## Core Explorations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work is currently centered around a few key questions:
+
+What lies at the 'edge of chaos'? Investigating the critical transition zone between order and randomness, where information processing, adaptation, and emergent computation are maximized.
+
+How can we harness chaos for computation? Exploring how non-linear, dynamic systems can solve complex problems that are intractable for traditional deterministic machines.
+
+Can we build truly transparent AI? Or are we destined to be the mystified users of inscrutable black boxes, especially as systems become more complex and chaotic?
+
+What are the fundamental principles of emergent intelligence? How can we create the conditions for it to arise from the interplay between chaotic interactions and underlying order?
+
+How can we subvert and repurpose existing systems to unlock new capabilities and challenge our assumptions?
+
