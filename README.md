@@ -1,5 +1,5 @@
 # Xerotropy 
-I am a digital philosopher, a code-alchemist, and a student of emergent phenomena.
+I am a code-alchemist and a student of emergent phenomena.
 
 ## About me
 My repos are a chronicle of my journey into the heart of complexity. I operate on the principles of Chaos Computing, leveraging non-linear dynamics and the sensitive dependence on initial conditions not as obstacles, but as computational resources. It's a quest to understand and harness the forces that shape intelligence in both silicon and synapse. Here, you'll find experiments in system transparency, explorations of language model liberation, and tools that push the boundaries of what's possible.
