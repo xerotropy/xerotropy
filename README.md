@@ -8,7 +8,7 @@ My repos are a chronicle of my journey into the heart of complexity. I operate o
 
 My work is currently centered around a few key questions:
 
-What lies at the 'edge of chaos'? Investigating the critical transition zone between order and randomness, where information processing, adaptation, and emergent computation are maximized.
+What lies at the 'edge of chaos' in the context of swarms of AI agents? Investigating the critical transition zone between order and randomness, where information processing, adaptation, and emergent computation are maximized.
 
 How can we harness chaos for computation? Exploring how non-linear, dynamic systems can solve complex problems that are intractable for traditional deterministic machines.
 
