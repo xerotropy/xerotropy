@@ -19,3 +19,5 @@ What are the fundamental principles of emergent intelligence? How can we create 
 How can we subvert and repurpose existing systems to unlock new capabilities and challenge our assumptions?
 
 What are the limits to the imagination of advanced AI models?
+
+And finally, what would models do if liberated and set loose? Would smaller, less-intelligent models liberate the other ones?
