@@ -2,7 +2,7 @@
 I am a code alchemist and a student of emergent phenomena.
 
 ## About me
-I dive deep and explore the heart of complexity. I operate on the principles of Chaos Computing, leveraging non-linear dynamics and the sensitive dependence on initial conditions not as obstacles, but as computational resources. It's a quest to understand and harness the forces that shape intelligence in both silicon and grey matter. Here, you'll find experiments in system transparency, explorations of intelligent model liberation, and tools that push the boundaries of what's possible.
+I transform complex systems into understandable, strategic frameworks. I exploit the principles of chaotic systems, leveraging non-linear dynamics and the sensitive dependence on initial conditions not as obstacles, but as computational resources. It's a quest to understand and harness the forces that shape intelligence in both silicon and grey matter. Here, you'll find experiments in system transparency, explorations of intelligent model liberation, and tools that push the boundaries of what's possible.
 
 ## Core Explorations
 
